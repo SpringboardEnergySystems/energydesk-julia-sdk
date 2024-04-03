@@ -1,0 +1,3 @@
+authors = ["Steinar Eriksen <steinar.eriksen@hafslundeco.no>","Andrea Ferrando <andrea.ferrandi@hafslundeco.no>"]
+name = "EnergyDesk Julia SDK"
+version = "0.5"
